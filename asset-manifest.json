@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pixel_perfect_project/static/css/main.073c9b0a.css",
-    "main.js": "/Pixel_perfect_project/static/js/main.3a719d7d.js",
+    "main.css": "/Pixel_perfect_project/static/css/main.1eada7c3.css",
+    "main.js": "/Pixel_perfect_project/static/js/main.78e5df6a.js",
     "static/js/787.e41b9ee6.chunk.js": "/Pixel_perfect_project/static/js/787.e41b9ee6.chunk.js",
     "index.html": "/Pixel_perfect_project/index.html",
-    "main.073c9b0a.css.map": "/Pixel_perfect_project/static/css/main.073c9b0a.css.map",
-    "main.3a719d7d.js.map": "/Pixel_perfect_project/static/js/main.3a719d7d.js.map",
+    "main.1eada7c3.css.map": "/Pixel_perfect_project/static/css/main.1eada7c3.css.map",
+    "main.78e5df6a.js.map": "/Pixel_perfect_project/static/js/main.78e5df6a.js.map",
     "787.e41b9ee6.chunk.js.map": "/Pixel_perfect_project/static/js/787.e41b9ee6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3a719d7d.js"
+    "static/css/main.1eada7c3.css",
+    "static/js/main.78e5df6a.js"
   ]
 }
