@@ -1,3 +1,6 @@
+//this is just and API practice page 
+// created just to have some practice on API's
+
 import React, { Component } from 'react'
 import axios from 'axios'
 
