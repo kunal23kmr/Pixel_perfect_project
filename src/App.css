@@ -7,13 +7,17 @@
   pointer-events: none;
 }
 
-.container{
-  position: absolute;
+.ck{
+  margin: 0;
+  /* position: absolute; */
   box-sizing: border-box;
   width: 100%;
+  /* padding: .2rem; */
+
   overflow-y: hidden; /* Hide the vertical scrollbar */
   /* padding: 10px; */
-}
+} 
+
 
 
 @media (prefers-reduced-motion: no-preference) {
