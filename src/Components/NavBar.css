@@ -3,15 +3,20 @@
     padding: 0;
 }
 
-.logo-txt{
+.logo-txt {
     font-size: 2rem;
     font-weight: 500;
-    align-items: center;
-    
-    /* margin-top: .7rem;
-     */
-     height: 100%;
-     float: bottom;
     margin-bottom: 0;
+    display: flex;
+    margin-bottom: 2px;
+    align-self: flex-end;
+    margin-bottom: 5px;
+    float: right;
 
+}
+
+.xyz {
+    margin: auto;
+    display: flex;
+    align-items: flex-end;
 }
